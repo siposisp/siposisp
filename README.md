@@ -21,9 +21,9 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,dotnet,css,html,js,typescript,nodejs,mysql,postgresql,git,github,mongodb,jenkins,docker,springboot,materialui,notion,postman,latex,windows,vscode,discord,gmail,bash&perline=12" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,py,dotnet,css,html,js,typescript,nodejs,mysql,postgresql,git,github,mongodb,jenkins,docker,springboot,materialui,notion,postman,latex,windows,vscode,discord,gmail,bash&perline=12" />
+</p>
 </p>
 <br>
 <!-------------------------->
