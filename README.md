@@ -33,7 +33,7 @@
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="10%" align="center">
+<td width="60%" align="center">
 
   <!-- Stats de commits -->
   <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=siposisp&theme=dark&show_icons=true&count_private=true" />
@@ -45,7 +45,7 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=siposisp&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="90%" align="center">
+<td width="40%" align="center">
 
   <!-- Lenguajes más usados -->
   <img  align="center"  
