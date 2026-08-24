@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Nicolas / siposisp ✨ </h1> 
+<h1 align="center">Hola 👋 soy Nicolas / siposisp ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-gajardo-ponce-885337191/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -9,9 +9,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERÍA EN INFORMÁTICA
+🎓 INGENIERÍA EN INFORMÁTICA
 
-📚 Estudiante de útimo año de ingeniería Informática en la Universidad de Santiago de Chile (USACH)
+📚 Ingeniero de ejecución e Informática, egresado de la Universidad de Santiago de Chile (USACH)
 
 📫 Contactos: **ngajardoponce@gmail.com** **nicolasgajardo11@gmail.com**
 <!--Intro end-->
